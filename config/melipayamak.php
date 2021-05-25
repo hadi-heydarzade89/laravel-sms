@@ -1,5 +1,5 @@
-<?php 
+<?php
 return [
-    'username' => '',
-    'password' => ''
+    'username' => 'sample',
+    'password' => 'sample'
 ];
